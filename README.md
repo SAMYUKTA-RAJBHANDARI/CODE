@@ -7,7 +7,7 @@ namespace Workshop1
     {
         static void Main(string[] args)
         {
-            for (int i=2, ,i++) { }
+            
             int a; int b; int c;
             Console.WriteLine("Enter first number");
             a = int.Parse(Console.ReadLine());
@@ -37,4 +37,4 @@ namespace Workshop1
         }
     }
 }
-}
+
